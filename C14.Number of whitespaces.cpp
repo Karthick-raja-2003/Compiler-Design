@@ -32,3 +32,4 @@ int main()
      printf("Total number of characters : %d\n",characters);
     return 0;
 }
+
